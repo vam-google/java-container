@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/java-container/compare/v1.0.0...v1.0.1) (2020-03-19)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-core to v1.93.1 ([#80](https://www.github.com/googleapis/java-container/issues/80)) ([00fee0a](https://www.github.com/googleapis/java-container/commit/00fee0aca2e6cc5c23fa96be968daa759bd46631))
+
 ## [1.0.0](https://www.github.com/googleapis/java-container/compare/v0.119.1...v1.0.0) (2020-02-27)
 
 
